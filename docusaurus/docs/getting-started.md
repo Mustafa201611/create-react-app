@@ -1,4 +1,9 @@
----
+admib---kosta1994r@gmail.com
+
+kontakt me 
+
+
+
 id: getting-started
 title: Getting Started
 ---
